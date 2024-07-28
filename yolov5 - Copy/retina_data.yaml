@@ -1,0 +1,8 @@
+path: ../../Original_images/images
+train: training
+val: validation
+nc: 3
+names: 
+  0: macula
+  1: disc
+  2: retina

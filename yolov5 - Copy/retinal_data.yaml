@@ -1,0 +1,4 @@
+names: '[disc, fovea]'
+nc: 2
+train: ../Original_images/images/tarining
+val: ../Original_images/images/validation
